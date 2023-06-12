@@ -1,0 +1,16 @@
+[05-May-2023 09:56:16 UTC] PHP Warning:  require(/home/cor7581/autorescue.services/public/vendor/autoload.php): Failed to open stream: No such file or directory in /home/cor7581/autorescue.services/public/index.php on line 34
+[05-May-2023 09:56:16 UTC] PHP Warning:  require(/home/cor7581/autorescue.services/public/vendor/autoload.php): Failed to open stream: No such file or directory in /home/cor7581/autorescue.services/public/index.php on line 34
+[05-May-2023 09:56:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cor7581/autorescue.services/public/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/cor7581/autorescue.services/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/cor7581/autorescue.services/public/index.php on line 34
+[05-May-2023 09:56:19 UTC] PHP Warning:  require(/home/cor7581/autorescue.services/public/vendor/autoload.php): Failed to open stream: No such file or directory in /home/cor7581/autorescue.services/public/index.php on line 34
+[05-May-2023 09:56:19 UTC] PHP Warning:  require(/home/cor7581/autorescue.services/public/vendor/autoload.php): Failed to open stream: No such file or directory in /home/cor7581/autorescue.services/public/index.php on line 34
+[05-May-2023 09:56:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cor7581/autorescue.services/public/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/cor7581/autorescue.services/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/cor7581/autorescue.services/public/index.php on line 34
+[11-May-2023 22:40:21 UTC] PHP Fatal error:  Cannot use App\Models\servise_porvider\user_servic as user_servic because the name is already in use in /home/cor7581/autorescue.services/app/Http/Controllers/user/servesesconttroler.php on line 9
+[11-May-2023 22:40:58 UTC] PHP Fatal error:  Cannot use App\Models\servise_porvider\user_servic as user_servic because the name is already in use in /home/cor7581/autorescue.services/app/Http/Controllers/user/servesesconttroler.php on line 9
+[15-May-2023 22:51:48 UTC] PHP Fatal error:  Cannot use [] for reading in /home/cor7581/autorescue.services/app/Http/Controllers/serviseProvi/regester.php on line 139
+[31-May-2023 20:48:59 UTC] PHP Fatal error:  Cannot use App\Models\servise_porvider\user_servic as user_servic because the name is already in use in /home/cor7581/autorescue.services/app/Http/Controllers/user/servesesconttroler.php on line 16
